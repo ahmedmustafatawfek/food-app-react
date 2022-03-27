@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food-app-react/static/css/main.62b21037.css",
+    "main.js": "/food-app-react/static/js/main.615fa7d6.js",
+    "static/media/hero-bg.jpg": "/food-app-react/static/media/hero-bg.14050f0c02ebf8fa749b.jpg",
+    "static/media/chicken.jpg": "/food-app-react/static/media/chicken.e844dc18e1e57a244627.jpg",
+    "static/media/burger.jpg": "/food-app-react/static/media/burger.63d166a948df3a2602eb.jpg",
+    "static/media/hero.jpg": "/food-app-react/static/media/hero.1c51e052c23df1efe014.jpg",
+    "static/media/craft1.jpg": "/food-app-react/static/media/craft1.5ad4b08ddc73161b1fb8.jpg",
+    "static/media/craft2.jpg": "/food-app-react/static/media/craft2.79cdd5f8404d0372c671.jpg",
+    "static/media/footer.jpg": "/food-app-react/static/media/footer.f114a2e411245f1a141a.jpg",
+    "index.html": "/food-app-react/index.html",
+    "main.62b21037.css.map": "/food-app-react/static/css/main.62b21037.css.map",
+    "main.615fa7d6.js.map": "/food-app-react/static/js/main.615fa7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b21037.css",
+    "static/js/main.615fa7d6.js"
+  ]
+}
